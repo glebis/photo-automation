@@ -30,13 +30,18 @@ h3. Additional backup using Automator script
 
 h2. CaptrueOne
 
-h3. Importing
+## Importing
 
-File renaming
+Files are renamed in CaptureOne using following template: .
 
-h3. Exporting
+## Exporting
 
-h2. Synology storage
+For exports I keep a single Outputs folder inside my main Pictures folder. My processing receipt created a folder accouding to the following template:
+yyyymmdd (Collection name) by gleb kalinin
+
+Todo: learn to automatically put an .URL file with a link to my page and a PDF file with basic info about my work.
+
+## Synology storage
 
 Todo: Learn Synology to autobackup (and empty?) SD cards
 
