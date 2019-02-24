@@ -21,6 +21,7 @@ Primary culling is performed in camera or in FastRawViewer. The latter is a much
 h2. Tethering
 
 Tethering is performed in CaptureOne.
+New scene/client = new Album name (as files are exported based on an album name), optionally a subfolder in Capture folder. 
 
 h3. Additional backup using Automator script
 
@@ -35,3 +36,5 @@ h3. Exporting
 h2. Synology storage
 
 Todo: Learn Synology to autobackup (and empty?) SD cards
+
+
