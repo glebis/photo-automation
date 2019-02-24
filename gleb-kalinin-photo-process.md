@@ -28,18 +28,22 @@ New scene/client = new Album name (as files are exported based on an album name)
 
 h3. Additional backup using Automator script
 
-h2. CaptrueOne
+## CaptrueOne
 
-## Importing
+### Importing
 
 Files are renamed in CaptureOne using following template: .
 
-## Exporting
+### Exporting
 
 For exports I keep a single Outputs folder inside my main Pictures folder. My processing receipt created a folder accouding to the following template:
-yyyymmdd (Collection name) by gleb kalinin
+yyyymmdd (Collection name) by (Author)
 
-Todo: learn to automatically put an .URL file with a link to my page and a PDF file with basic info about my work.
+[] (For now, Author is hardcoded into CaptureOne Preset text, good idea to use metadata for this).
+
+
+
+[] Learn to automatically put an .URL file with a link to my page and a PDF file with basic info about my work. PDF should contain legal and distribution info, porfolio samples
 
 ## Synology storage
 
