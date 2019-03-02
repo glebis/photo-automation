@@ -41,9 +41,9 @@ yyyymmdd (Collection name) by (Author)
 
 [] (For now, Author is hardcoded into CaptureOne Preset text, good idea to use metadata for this).
 
-
-
 [] Learn to automatically put an .URL file with a link to my page and a PDF file with basic info about my work. PDF should contain legal and distribution info, porfolio samples
+
+[] Uploading using rsync
 
 ## Synology storage
 
